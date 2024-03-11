@@ -1,0 +1,21 @@
+{
+  "name": "next-routing-example",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@nextui-org/react": "^2.2.9",
+    "bootstrap": "^4.6.2",
+    "bootstrap-icons": "^1.11.3",
+    "framer-motion": "^11.0.7",
+    "next": "^14.1.0",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.1",
+    "react-dom": "^18.2.0",
+    "sass": "^1.71.1"
+  }
+}
